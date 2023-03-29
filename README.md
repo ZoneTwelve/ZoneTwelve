@@ -1,16 +1,14 @@
-### Hi there 👋
+## ZoneTwelve Here
 
-<!--
-**ZoneTwelve/ZoneTwelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to be a Maker, System designers, Software engineers, Information security researchers and innovative educators.
+If you are interest about my research, here is my [Blog](https://blog.zonetwelve.io), not often updte.
+About often, I often use:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| <img height="28" src="./assets/img/nodedotjs.svg"> | <img height="28" src="./assets/img/git.svg"> | <img height="28" src="./assets/img/linux.svg"> | <img height="28" src="./assets/img/docker.svg">  | <img height="28" src="./assets/img/gnubash.svg"> | <img height="28" src="./assets/img/terminal.svg"> | <img height="28" src="./assets/img/cloud.svg"> | <img height="28" src="./assets/img/mysql.svg"> |
+| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+| Node.js | Git | Linux | Docker  | BASH | Terminal | Cloud | Database |
+
+
+![GitHub Stats, Rank A+](./assets/img/github-stats.svg)
+<small>Latest update: 2023/03/29</small>
