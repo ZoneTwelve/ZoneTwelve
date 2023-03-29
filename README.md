@@ -1,9 +1,10 @@
 ## ZoneTwelve Here
 
 I love to be a Maker, System designers, Software engineers, Information security researchers and innovative educators.
-If you are interest about my research, here is my [Blog](https://blog.zonetwelve.io), not often updte.
-About often, I often use:
 
+If you are interest about my research, here is my [Blog](https://blog.zonetwelve.io), not often updte.
+
+About often, I often use:
 
 | <img height="28" src="./assets/img/nodedotjs.svg"> | <img height="28" src="./assets/img/git.svg"> | <img height="28" src="./assets/img/linux.svg"> | <img height="28" src="./assets/img/docker.svg">  | <img height="28" src="./assets/img/gnubash.svg"> | <img height="28" src="./assets/img/terminal.svg"> | <img height="28" src="./assets/img/cloud.svg"> | <img height="28" src="./assets/img/mysql.svg"> |
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
@@ -11,4 +12,5 @@ About often, I often use:
 
 
 ![GitHub Stats, Rank A+](./assets/img/github-stats.svg)
+
 <small>Latest update: 2023/03/29</small>
