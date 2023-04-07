@@ -1,6 +1,6 @@
 ## ZoneTwelve Here
 
-I love to be a Maker, System designers, Software engineers, Information security researchers and innovative educators.
+I love to be a part of Maker, System designers, Software engineers, Information security researchers and innovative educators.
 
 If you are interest about my research, here is my [Blog](https://blog.zonetwelve.io), not often updte.
 
