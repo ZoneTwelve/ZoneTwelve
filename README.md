@@ -25,7 +25,7 @@ I don’t strictly separate research, engineering, and infrastructure — if som
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Python | Node.js | Git | Linux | Shell | Terminal |
 
-| <img height="28" src="./assets/img/k8s.svg"> | <img height="28" src="./assets/img/cloud.svg"> | <img height="28" src="./assets/img/mysql.svg"> | <img height="28" src="./assets/img/iptables.svg"> |
+| <img height="28" src="./assets/img/k8s.svg"> | <img height="28" src="./assets/img/cloud.svg"> | <img height="28" src="./assets/img/pgql.svg"> | <img height="28" src="./assets/img/iptables.svg"> |
 | :--: | :--: | :--: | :--: |
 | Kubernetes | Cloud | Database | iptables |
 
