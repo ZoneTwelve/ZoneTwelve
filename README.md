@@ -46,4 +46,8 @@ https://blog.zonetwelve.io
 
 ---
 
-<small>Last updated: 2026</small>
+### Additional Information
+
+If you’re looking for projects that are objectively a mess but were made with 100% heart and ideas, check out the rest of my work here: [ZoneTwelveWorkspace](https://github.com/ZoneTwelveWorkspace).
+
+<small>Last updated: Apr 2026</small>
